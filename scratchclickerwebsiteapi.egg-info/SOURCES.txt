@@ -1,0 +1,7 @@
+setup.py
+scratchclickerapi/__init__.py
+scratchclickerwebsiteapi.egg-info/PKG-INFO
+scratchclickerwebsiteapi.egg-info/SOURCES.txt
+scratchclickerwebsiteapi.egg-info/dependency_links.txt
+scratchclickerwebsiteapi.egg-info/requires.txt
+scratchclickerwebsiteapi.egg-info/top_level.txt
